@@ -1,0 +1,6 @@
+Beautiful campus map creation	
+
+For creating beautiful campus map, I used geodatabase from previous year campus map project. 
+I transformed visible data. I removed all layers that I don't need. I changed colours of polygons. 
+I changed field values in attribute table (those which have to be visible on map). 
+At the end I drew new parking lot. Then I exported map like .png file.
